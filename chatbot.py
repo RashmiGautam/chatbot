@@ -9,7 +9,7 @@ import openai
 import unittest
 from unittest.mock import patch
 
-# Set your OpenAI API key
+# Set your OpenAI platform API key 
 openai.api_key = "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"
 
 # Create a ChatBot instance with a name
